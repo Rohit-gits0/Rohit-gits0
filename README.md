@@ -17,8 +17,6 @@ I'm a Software Developer from India, passionate to create new things.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imperialrogers&show_icons=true&locale=en" alt="imperialrogers" /></p>
 
 
-### Visit My Portfolio: <a class="post" href="https://chintanchawda.netlify.app/">Portfolio Website</a>
-
 
 ### What I do?
 
